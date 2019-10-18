@@ -1,0 +1,6 @@
+[07-Dec-2018 09:21:35 America/Mexico_City] PHP Fatal error:  Call to undefined function get_header() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[08-Dec-2018 13:04:28 America/Mexico_City] PHP Fatal error:  Call to undefined function get_header() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[08-Dec-2018 16:18:30 America/Mexico_City] PHP Fatal error:  Call to undefined function get_template_part() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[12-Dec-2018 12:17:40 America/Mexico_City] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[21-Dec-2018 21:05:20 America/Mexico_City] PHP Fatal error:  Call to undefined function get_header() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Jan-2019 10:18:15 America/Mexico_City] PHP Fatal error:  Call to undefined function get_template_part() in /home2/casabasalto/public_html/wp-content/themes/twentyseventeen/footer.php on line 22

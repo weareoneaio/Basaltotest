@@ -1,0 +1,1 @@
+[10-Dec-2018 16:03:18 America/Mexico_City] PHP Fatal error:  Call to undefined function plugin_basename() in /home2/casabasalto/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

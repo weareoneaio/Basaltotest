@@ -1,0 +1,2 @@
+[18-Dec-2018 20:54:44 America/Mexico_City] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/casabasalto/public_html/wp-includes/locale.php on line 10
+[01-Jan-2019 11:30:03 America/Mexico_City] PHP Fatal error:  Class 'Walker' not found in /home2/casabasalto/public_html/wp-includes/class-walker-nav-menu.php on line 17

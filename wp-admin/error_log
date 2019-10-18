@@ -1,0 +1,4 @@
+[13-Apr-2018 18:46:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/casabasalto/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[13-Apr-2018 18:46:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/casabasalto/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[13-Apr-2018 19:01:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=503697 in /home2/casabasalto/public_html/wp-includes/wp-db.php on line 1924
+[13-Apr-2018 19:03:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=503697 in /home2/casabasalto/public_html/wp-includes/wp-db.php on line 1924
